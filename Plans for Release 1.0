@@ -1,5 +1,9 @@
-1) Learn to use ActionEvents in Javafx
+Development has restarted. Current target is September to get closer to version 1.0.
+
+1) Add GUI and ActionEvents in to Oregano.java
 2) Make sure code runs efficiently
-3) Refactor to remove Vulnerabilities.
-4) Well Document program as it is to help new Java programmers use JavaFX in a practical way.
+3) Refactor to remove vulnerabilities. AKA remove the Scanner library from the program.
+4) Document the program as it is to help new Java programmers use JavaFX in a practical way.
 5) KEEP CODE CLEAN AND READABLE!!!
+6) Create MASM program to launch Oregano on Windows
+7) Create Android application
