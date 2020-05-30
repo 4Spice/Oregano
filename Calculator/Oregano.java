@@ -1,18 +1,51 @@
 //package Calculator;
 
-import java.util.Scanner;
-import javafx.application.Application;
-import javafx.scene.*;//For Scene, Group, Shape, and paint.Color
-import javafx.stage.Stage;
+//import java.util.Scanner;
+//import jdk.internal.org.xml.sax.InputSource;
+//import java.io.BufferedInputStream;
+//import java.io.InputStream;
+//import javafx.application.Application;
+//import javafx.scene.*;//For Scene, Group, Shape, and paint.Color
+//import javafx.stage.Stage;
 
-public class Oregano extends Application
+public class Oregano 
 {
     public static void main(String[] args) 
     {
-        launch(args);
+        //InputStream userIn = new InputSource(System.in);
     }
 
-    public void start(Stage calculatorGUI)
+    public static Double mathManager(Double num1, Double num2, String operand) 
+    {
+        //Do switch
+        Arithmatic mathIt = new Arithmatic();        
+
+        switch (operand) 
+        {
+            case "a":
+                num1 = mathIt.Add(num1, num2);
+                break;
+
+            case "s":
+            num1 = mathIt.Add(num1, num2);
+            break;
+
+            case "m":
+            num1 = mathIt.Add(num1, num2);
+            break;
+
+            case "d":
+            num1 = mathIt.Add(num1, num2);
+            break;
+
+            default:
+                break;
+        }
+
+        return num1;
+    }
+
+    /*public void start(Stage calculatorGUI)
     {
         Group calcWindow = new Group();
     }
@@ -23,8 +56,5 @@ public class Oregano extends Application
      * @param operand Used to call corect method in Arithmatic class
      * @return Result of operation returned start to show on calculator "Screen"
      */
-    public static Double mathManager(Double num1, Double num2, String operand)
-    {
-        return num1;
-    }
+    
 }
