@@ -1,0 +1,3 @@
+07/31/2020
+  I finally finished my summer class and now I can continue to learn android development. I am still targeting a release of the application in September of 2020. 
+  Hopefully I can publish the app on google play store sometime after release 1.0.
