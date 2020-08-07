@@ -1,0 +1,9 @@
+July 31, 2020
+  I finally finished my summer class and now I can continue to learn android development. I am still targeting a release of the application in September of 2020. 
+  Hopefully I can publish the app on google play store sometime after release 1.0.
+  
+August 5, 2020
+  Finding up-to-date lessons on android development using Java is harder than it seems. I hope I can find a good lesson so my project does not get delayed another six months.
+  
+August 6, 2020
+  I  found some potential platforms to learn android development, but I cant afford them at the moment. Until I can afford it, this project will be on hold for a while.
