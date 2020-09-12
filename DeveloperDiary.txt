@@ -7,3 +7,6 @@ August 5, 2020
   
 August 6, 2020
   I  found some potential platforms to learn android development, but I cant afford them at the moment. Until I can afford it, this project will be on hold for a while.
+
+September 11, 2020
+  Now I am able to afford online lessons for android development and the project is resuming.
